@@ -1,0 +1,14 @@
+{
+  "todos": [
+    {
+      "title": "To study",
+      "status": false,
+      "id": 1
+    },
+    {
+      "title": "To buy fruits",
+      "status": false,
+      "id": 2
+    }
+  ]
+}
